@@ -42,3 +42,14 @@ function duplicateEncode(word){
   return result;
 }
 ```
+
+***
+
+## Education:
+
+##### Bachelor of Information Security, 2024 (in progress): Moscow Technical University of Communications and Informatics, Moscow
+
+## Languages:
+
+#### Russian - Native
+#### English - basic school level
