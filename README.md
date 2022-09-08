@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Egorus-git.github.io/rsschool-cv/cv
